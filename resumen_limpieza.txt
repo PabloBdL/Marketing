@@ -1,0 +1,25 @@
+Eliminados 5 registros (5/1037 --> 0.48%) por demasiados nulos
+Eliminados 0 registros por type nulos
+Eliminados 3 registros (3/1037 --> 0.29%) por budget conflictivos
+Eliminados 0 registros por type conflictivos
+Eliminados 1 registro (3/1037 --> 0.29%) por conversion_rate conflictivo
+Eliminados 0 registro  por revenue conflictivo
+Eliminados 5 registro (5/1037 --> 0.48%) por start_date y/o end_date conflictivos
+Eliminados 0 registro por outliers
+Eliminados 18 registro (18/1037 --> 0.48%) por duplicidad (exacta) de registros
+Eliminados 1 registro (1/1037 --> 0.09%) por duplicidad (en el nombre) de registros
+
+Eliminados hasta el momento: 33 registros (33/1037 --> 3.18%)
+Datos restantes para estudio: 1004 registros (1004/1037 --> 96.82%)
+
+----------------------------------------------------------------
+
+Eliminados 5 registros (5/1037 --> 0.48%) por demasiados nulos
+Eliminados 3 registros (3/1037 --> 0.29%) por budget conflictivos
+Eliminados 1 registro (3/1037 --> 0.29%) por conversion_rate conflictivo
+Eliminados 5 registro (5/1037 --> 0.48%) por start_date y/o end_date conflictivos
+Eliminados 18 registro (18/1037 --> 0.48%) por duplicidad (exacta) de registros
+Eliminados 1 registro (1/1037 --> 0.09%) por duplicidad (parcial) de registros
+
+Eliminados hasta el momento: 33 registros (33/1037 --> 3.18%)
+Datos restantes para estudio: 1004 registros (1004/1037 --> 96.82%)
