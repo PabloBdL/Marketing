@@ -77,7 +77,7 @@ Se utilizarán herramientas de análisis estadístico para evaluar el rendimient
 > [!NOTE]
 > Todos los campos calculados según se han necesitado a lo largo del análisis, se incluirán en un nuevo fichero de datos `marketingcampaigns_final.csv`.
 
-<br>
+<br/>
 
 ---
 
@@ -86,7 +86,7 @@ Se utilizarán herramientas de análisis estadístico para evaluar el rendimient
 * Canal más utilizado: `promotion` con 271 campañas.
 * Mejor ROI promedio: `referral` con un ROI de 0.55.
 
-<br>
+<br/>
 
 ---
 
@@ -97,7 +97,7 @@ Se utilizarán herramientas de análisis estadístico para evaluar el rendimient
 
 <img src="../img/channel_revenue-conversion_rate.jpg" alt="Description" width="75%">
 
-<br>
+<br/>
 
 ---
 
@@ -113,7 +113,7 @@ Se utilizarán herramientas de análisis estadístico para evaluar el rendimient
 
 <img src="../img/ROI_correlation_heatmap.jpg" alt="Description" width="75%">
 
-<br>
+<br/>
 
 ---
 
@@ -129,7 +129,7 @@ Se utilizarán herramientas de análisis estadístico para evaluar el rendimient
 
 <img src="../img/converionRate_channel_targetAudience.jpg" alt="Description" width="75%">
 
-<br>
+<br/>
 
 ---
 
@@ -147,7 +147,7 @@ Entre las campañas de mayor beneficio neto, estacan las siguientes característ
 * Podcast y Social Media
 * Ambas audiencias (B2B y B2C) están representadas
 
-<br>
+<br/>
 
 ---
 
@@ -161,7 +161,7 @@ Entre las campañas de mayor beneficio neto, estacan las siguientes característ
 
 Es más recomendable segmentar estrategias según canal y tipo de campaña para maximizar el desempeño en cada audiencia.
 
-<br>
+<br/>
 
 ---
 
@@ -190,7 +190,7 @@ Datos estadísticos de las mejores campañas
 
 <img src="../img/filtered_type_frecuency.jpg" alt="Description" width="75%">
 
-<br>
+<br/>
 
 ---
 
@@ -204,11 +204,8 @@ Datos estadísticos de las mejores campañas
 
 <img src="../img/ROIAndRevenue_quarterMean.jpg" alt="Description" width="75%">
 
-
-
-
-<br>
-<br>
+<br/>
+<br/>
 
 ---
 

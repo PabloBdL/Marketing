@@ -48,8 +48,8 @@ Para más detalles, consulta el [ANALYSIS.md](./docs/ANALYSIS.md) del directorio
 - Conclusiones respecto a dichos resultados.
 - Recomendaciones para optimizar futuras campañas.
 
-<br>
-<br>
+<br/>
+<br/>
 
 ---
 
