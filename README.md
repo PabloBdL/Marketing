@@ -12,7 +12,7 @@ Todas las ejecuciones de este proyecto se ha realizado con una versión de `Pyth
 Para poder ejecutar los jupyterNotebooks en el proyecto, es necesario tener las siguientes librerías adicionales en la instalación de Python (las versiones recomendadas son las utilizadas para el proyecto)
 
 | librería | versión |
-| - | - |
+| :- | -: |
 | pandas | 2.2.3 |
 | numpy | 2.2.3 |
 | seaborn | 0.13.2 |
@@ -34,7 +34,7 @@ pip install <librería>
 
 4. **Análisis Cualitativo**: Se realizarán entrevistas y grupos focales para obtener insights más profundos sobre la percepción del consumidor.
 
-Para más detalles, consulta el [ANALYSIS.md](./notebooks/ANALYSIS.md) del directorio `/docs`.
+Para más detalles, consulta el [ANALYSIS.md](./docs/ANALYSIS.md) del directorio `/docs`.
 
 ## 🎯 Objetivos
 
@@ -55,7 +55,6 @@ Para más detalles, consulta el [ANALYSIS.md](./notebooks/ANALYSIS.md) del direc
 
 **Autor**: Pablo Bertrán de Lis
 
-**Trabajo realizado para**:
-Upgrade Hub
+**Trabajo realizado para**: Upgrade Hub
 
-<img src="./img/upgrade_logo.jpg" alt="Description" width="50"> **Hub it all!**
+<a href="https://www.upgrade-hub.com/"><img src="./img/upgrade_logo.jpg" alt="Description" width="50"> **Hub it all!**</a>
