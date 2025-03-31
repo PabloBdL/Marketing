@@ -95,7 +95,7 @@ Se utilizarán herramientas de análisis estadístico para evaluar el rendimient
 * Social Media lidera con $529,591 en ingresos promedio.
 * Webinar encabeza con una tasa de conversión promedio del 55.6%.
 
-<img src="../img/channel_revenue-conversion_rate.jpg" alt="Description" width="75%">
+<img src="../img/channel_revenue-conversion_rate.jpg" alt="conversion_rate/revenue por canal" width="75%">
 
 <br/>
 
@@ -106,12 +106,12 @@ Se utilizarán herramientas de análisis estadístico para evaluar el rendimient
 * Según el Histograma la mayoría de los valores de ROI se concentran entre 0.3 y 0.7, con una ligera asimetría a la derecha.
 * No hay una relación clara: campañas con ROI alto pueden tener presupuestos bajos o altos.
 
-<img src="../img/ROI_distribution_3.jpg" alt="Description" width="100%">
-<img src="../img/ROI_segmentation.jpg" alt="Description" width="100%">
+<img src="../img/ROI_distribution_3.jpg" alt="distribucion ROI por canal/typo/target" width="100%">
+<img src="../img/ROI_segmentation.jpg" alt="dispersion ROI con budget/target_conversion/revenue " width="100%">
 
 * El ROI está más relacionado con el canal de difusión, o el público objetivo que con otros datos.
 
-<img src="../img/ROI_correlation_heatmap.jpg" alt="Description" width="75%">
+<img src="../img/ROI_correlation_heatmap.jpg" alt="heatmap roi/revenue/target/budget" width="75%">
 
 <br/>
 
@@ -123,11 +123,11 @@ Se utilizarán herramientas de análisis estadístico para evaluar el rendimient
 
 * Algunas campañas como Webinar y Email muestran una mayor diferencia a favor de B2B.
 
-<img src="../img/conversionRate_channel_targetAudience.jpg" alt="Description" width="75%">
+<img src="../img/conversionRate_channel_targetAudience.jpg" alt="conversionRate y channel por targetAudience" width="75%">
 
 * Las diferencias entre B2B y B2C se hacen más visibles entre los canales Organic y Paid, y menos entre Promotion y Referral.
 
-<img src="../img/converionRate_channel_targetAudience.jpg" alt="Description" width="75%">
+<img src="../img/converionRate_channel_targetAudience.jpg" alt="conversionRate y type por targetAudience" width="75%">
 
 <br/>
 
@@ -141,7 +141,7 @@ Se utilizarán herramientas de análisis estadístico para evaluar el rendimient
 | 🥈 | Balanced optimizing software | 987359.82 | 0.95 |
 | 🥉 | Object-based didactic intranet | 979827.40 | 0.64 |
 
-<img src="../img/top10channelName.jpg" alt="Description" width="75%">
+<img src="../img/top10channelName.jpg" alt="Top10 campañas por beneficio" width="75%">
 
 Entre las campañas de mayor beneficio neto, estacan las siguientes características:
 * Podcast y Social Media
@@ -155,7 +155,7 @@ Entre las campañas de mayor beneficio neto, estacan las siguientes característ
 
 * En el gráfico general y los segmentados por tipo de campaña, se observa una gran dispersión: algunas campañas con bajo presupuesto generan altos ingresos, y viceversa.
 
-<img src="../img/relation_budget_revenue.jpg" alt="Description" width="75%">
+<img src="../img/relation_budget_revenue.jpg" alt="Top10 relacion budget y revenue" width="75%">
 
 * No se aprecia un punto óptimo claro de inversión; más bien, el rendimiento parece depender más de otros factores como canal, audiencia o contenido de la campaña.
 
@@ -167,7 +167,7 @@ Es más recomendable segmentar estrategias según canal y tipo de campaña para 
 
 7️⃣ ¿Qué campañas tienen un ROI mayor a 0.5 y ingresos encima de 500,000?
 
-<img src="../img/filtered_ROI_distribution.jpg" alt="Description" width="75%">
+<img src="../img/filtered_ROI_distribution.jpg" alt="Top10 distribución roi" width="75%">
 
 Datos estadísticos de las mejores campañas
 
@@ -184,11 +184,11 @@ Datos estadísticos de las mejores campañas
 
 * Predominan los canales promotion, organic y paid.
 
-<img src="../img/filtered_channel_frecuency.jpg" alt="Description" width="75%">
+<img src="../img/filtered_channel_frecuency.jpg" alt="Top10 frecuencia channel" width="75%">
 
 * Los tipos más comunes son email, podcast, y webinar.
 
-<img src="../img/filtered_type_frecuency.jpg" alt="Description" width="75%">
+<img src="../img/filtered_type_frecuency.jpg" alt="Top10 frecuencia type" width="75%">
 
 <br/>
 
@@ -198,11 +198,11 @@ Datos estadísticos de las mejores campañas
 
 * Ingresos tienen picos en algunos meses (por ejemplo, abril y noviembre), aunque no siguen una curva clara.
 
-<img src="../img/ROI_monthDistribution.jpg" alt="Description" width="75%">
+<img src="../img/ROI_monthDistribution.jpg" alt="Top10 distribucion mensual ROI" width="75%">
 
 * El comportamiento varía según el tipo, lo que sugiere que la estacionalidad no es universal, sino dependiente del tipo de campaña.
 
-<img src="../img/ROIAndRevenue_quarterMean.jpg" alt="Description" width="75%">
+<img src="../img/ROIAndRevenue_quarterMean.jpg" alt="Top10 roi revenue acumulado por cuarto" width="75%">
 
 <br/>
 <br/>
@@ -213,4 +213,4 @@ Datos estadísticos de las mejores campañas
 
 **Trabajo realizado para**: Upgrade Hub
 
-<img src="../img/upgrade_logo.jpg" alt="Description" width="50"> **Hub it all!**
+<img src="../img/upgrade_logo.jpg" alt="UpgradeHub logo" width="50"> **Hub it all!**
