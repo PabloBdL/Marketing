@@ -57,4 +57,4 @@ Para más detalles, consulta el [ANALYSIS.md](./docs/ANALYSIS.md) del directorio
 
 **Trabajo realizado para**: Upgrade Hub
 
-<a href="https://www.upgrade-hub.com/"><img src="./img/upgrade_logo.jpg" alt="Description" width="50"> **Hub it all!**</a>
+<a href="https://www.upgrade-hub.com/" target="_blank" rel="noopener noreferrer"><img src="./img/upgrade_logo.jpg" alt="Description" width="50"> **Hub it all!**</a>
