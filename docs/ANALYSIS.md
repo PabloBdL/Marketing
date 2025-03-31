@@ -79,10 +79,16 @@ Se utilizarán herramientas de análisis estadístico para evaluar el rendimient
 
 <br>
 
+---
+
 1️⃣ **¿Qué canal de marketing se utiliza con mayor frecuencia y cuál genera mejor ROI?**
 
 * Canal más utilizado: `promotion` con 271 campañas.
 * Mejor ROI promedio: `referral` con un ROI de 0.55.
+
+<br>
+
+---
 
 2️⃣ **¿Qué tipo de campaña genera más ingresos en promedio y cuál tiene mejor conversión?**
 
@@ -90,6 +96,10 @@ Se utilizarán herramientas de análisis estadístico para evaluar el rendimient
 * Webinar encabeza con una tasa de conversión promedio del 55.6%.
 
 <img src="../img/channel_revenue-conversion_rate.jpg" alt="Description" width="75%">
+
+<br>
+
+---
 
 3️⃣ **¿Cómo se distribuye el ROI entre las campañas? ¿Qué factores están asociados con un ROI alto?**
 
@@ -103,6 +113,10 @@ Se utilizarán herramientas de análisis estadístico para evaluar el rendimient
 
 <img src="../img/ROI_correlation_heatmap.jpg" alt="Description" width="75%">
 
+<br>
+
+---
+
 4️⃣ **¿Hay diferencias significativas en la tasa de conversión entre audiencias B2B y B2C?**
 
 * Ambas audiencias presentan una distribución similar.B2B muestra una ligera tendencia a tener una conversión más alta, pero la diferencia no es drástica visualmente.
@@ -114,6 +128,10 @@ Se utilizarán herramientas de análisis estadístico para evaluar el rendimient
 * Las diferencias entre B2B y B2C se hacen más visibles entre los canales Organic y Paid, y menos entre Promotion y Referral.
 
 <img src="../img/converionRate_channel_targetAudience.jpg" alt="Description" width="75%">
+
+<br>
+
+---
 
 5️⃣ **¿Qué campaña tiene el mayor beneficio neto (nuevo campo: `net_profit`)? ¿Qué características la hacen exitosa?**
 
@@ -129,6 +147,10 @@ Entre las campañas de mayor beneficio neto, estacan las siguientes característ
 * Podcast y Social Media
 * Ambas audiencias (B2B y B2C) están representadas
 
+<br>
+
+---
+
 6️⃣ ¿Existe correlación entre el presupuesto (budget) y los ingresos (revenue)?
 
 * En el gráfico general y los segmentados por tipo de campaña, se observa una gran dispersión: algunas campañas con bajo presupuesto generan altos ingresos, y viceversa.
@@ -138,6 +160,10 @@ Entre las campañas de mayor beneficio neto, estacan las siguientes característ
 * No se aprecia un punto óptimo claro de inversión; más bien, el rendimiento parece depender más de otros factores como canal, audiencia o contenido de la campaña.
 
 Es más recomendable segmentar estrategias según canal y tipo de campaña para maximizar el desempeño en cada audiencia.
+
+<br>
+
+---
 
 7️⃣ ¿Qué campañas tienen un ROI mayor a 0.5 y ingresos encima de 500,000?
 
@@ -164,6 +190,9 @@ Datos estadísticos de las mejores campañas
 
 <img src="../img/filtered_type_frecuency.jpg" alt="Description" width="75%">
 
+<br>
+
+---
 
 8️⃣ ¿Existen patrones estacionales o temporales en el rendimiento de las campañas?
 
