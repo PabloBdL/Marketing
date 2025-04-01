@@ -23,7 +23,7 @@ Se han utilizado herramientas de análisis y tratamiento de datos y computación
 Tras la carga, se comprueban los campos, y se comienza a estudiar por separado, en valor y tipo de dato.
 
 | campo | significado | tipo de dato esperado |
-| -: | -: | :-: |
+| :-: | :- | :-: |
 | campaign_name | nombre_de_campaña| object |
 | start_date | fecha_de_inicio| datetime |
 | end_date | fecha_de_finalización| datetime |
@@ -70,7 +70,7 @@ Eliminados en total: **33 registros (3.18% de los datos)**
 
 Datos restantes para estudio: **1004 registros (96.82% de los datos)**
 
-## Análisis de datos y conclusiones
+## Análisis de datos
 
 Se utilizarán herramientas de análisis estadístico para evaluar el rendimiento de las campañas, obtener resultados o patrones de las campañas estudiadas, y sacar conclusiones en base a lor resultados. La justificación de las respuestas a las preguntas planteadas, así como la metodología utilizada para obtenerlas, se encuentra en el jupyterNotebook: [02_data_analysis.ipynb](./02_data_analysis.ipynb).
 
@@ -106,7 +106,7 @@ Se utilizarán herramientas de análisis estadístico para evaluar el rendimient
 * Según el Histograma la mayoría de los valores de ROI se concentran entre 0.3 y 0.7, con una ligera asimetría a la derecha.
 * No hay una relación clara: campañas con ROI alto pueden tener presupuestos bajos o altos.
 
-<img src="../img/ROI_distribution_3.jpg" alt="distribucion ROI por canal/typo/target" width="100%">
+<img src="../img/ROI_distribution_3.jpg" alt="distribucion ROI por canal/type/target" width="100%">
 <img src="../img/ROI_segmentation.jpg" alt="dispersion ROI con budget/target_conversion/revenue " width="100%">
 
 * El ROI está más relacionado con el canal de difusión, o el público objetivo que con otros datos.
@@ -127,7 +127,7 @@ Se utilizarán herramientas de análisis estadístico para evaluar el rendimient
 
 * Las diferencias entre B2B y B2C se hacen más visibles entre los canales Organic y Paid, y menos entre Promotion y Referral.
 
-<img src="../img/converionRate_channel_targetAudience.jpg" alt="conversionRate y type por targetAudience" width="75%">
+<img src="../img/conversionRate_channel_targetAudience.jpg" alt="conversionRate y type por targetAudience" width="75%">
 
 <br/>
 
@@ -203,6 +203,15 @@ Datos estadísticos de las mejores campañas
 * El comportamiento varía según el tipo, lo que sugiere que la estacionalidad no es universal, sino dependiente del tipo de campaña.
 
 <img src="../img/ROIAndRevenue_quarterMean.jpg" alt="Top10 roi revenue acumulado por cuarto" width="75%">
+
+## Resumen de Resultados
+
+| Criterio | Canal | Tipo | Target |
+| - | :-: | :-: | :-: |
+| Más común | Promotion | email | B2B |
+| Mejor ROI promedio | Referral | Social Media | B2B |
+| Mejor Tasa de Conversión | Paid | Webinar | B2B |
+| Mejor Ingresos promedio | Organic | Social Media | B2B |
 
 <br/>
 <br/>
