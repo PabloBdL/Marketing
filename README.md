@@ -42,12 +42,6 @@ Para más detalles, consulta el [ANALYSIS.md](./docs/ANALYSIS.md) del directorio
 - Identificar tendencias y patrones en el comportamiento del consumidor.
 - Proporcionar recomendaciones basadas en datos para futuras estrategias de marketing.
 
-## 🏆 Resultados Esperados
-
-- Un informe con los resultados obtenidos en los distintos estudios realizados.
-- Conclusiones respecto a dichos resultados.
-- Recomendaciones para optimizar futuras campañas.
-
 <br/>
 <br/>
 
