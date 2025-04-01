@@ -4,7 +4,7 @@ Obtención y carga de datos, procesamiento de los mismos para su correcto análi
 
 ## Recopilación y carga de datos
 
-Se han recopilado datos, con una comprobación inicial para cargar los datos y empezar a trabajar con ellos. Todo este procedimiento está documentado en el jupyterNotebook: [00_load_data.ipynb](./00_load_data.ipynb).
+Se han recopilado datos, con una comprobación inicial para cargar los datos y empezar a trabajar con ellos. Todo este procedimiento está documentado en el jupyterNotebook: [00_load_data.ipynb](../notebooks/00_load_data.ipynb).
 
 Nos basamos en el fichero de datos original `marketingcampaigns.csv` para comenzar el tratamiento
 
@@ -18,7 +18,7 @@ Se comprueba la carga correcta del fichero, y se da por válido el nuevo fichero
 
 ## Preprocesamiento de los datos, formateo, limpieza y detección de anomalías
 
-Se han utilizado herramientas de análisis y tratamiento de datos y computación para realizar la limpieza de los datos (valores extremos, erroneos, duplicados, nulos...). El procedimiento, con la justificación de cada decisión tomada, está en el jupyterNotebook: [01_preprocessing.ipynb](./01_preprocessing.ipynb).
+Se han utilizado herramientas de análisis y tratamiento de datos y computación para realizar la limpieza de los datos (valores extremos, erroneos, duplicados, nulos...). El procedimiento, con la justificación de cada decisión tomada, está en el jupyterNotebook: [01_preprocessing.ipynb](../notebooks/01_preprocessing.ipynb).
 
 Tras la carga, se comprueban los campos, y se comienza a estudiar por separado, en valor y tipo de dato.
 
@@ -72,7 +72,7 @@ Datos restantes para estudio: **1004 registros (96.82% de los datos)**
 
 ## Análisis de datos
 
-Se utilizarán herramientas de análisis estadístico para evaluar el rendimiento de las campañas, obtener resultados o patrones de las campañas estudiadas, y sacar conclusiones en base a lor resultados. La justificación de las respuestas a las preguntas planteadas, así como la metodología utilizada para obtenerlas, se encuentra en el jupyterNotebook: [02_data_analysis.ipynb](./02_data_analysis.ipynb).
+Se utilizarán herramientas de análisis estadístico para evaluar el rendimiento de las campañas, obtener resultados o patrones de las campañas estudiadas, y sacar conclusiones en base a lor resultados. La justificación de las respuestas a las preguntas planteadas, así como la metodología utilizada para obtenerlas, se encuentra en el jupyterNotebook: [02_data_analysis.ipynb](../notebooks/02_data_analysis.ipynb).
 
 > [!NOTE]
 > Todos los campos calculados según se han necesitado a lo largo del análisis, se incluirán en un nuevo fichero de datos `marketingcampaigns_final.csv`.
@@ -124,10 +124,6 @@ Se utilizarán herramientas de análisis estadístico para evaluar el rendimient
 * Algunas campañas como Webinar y Email muestran una mayor diferencia a favor de B2B.
 
 <img src="../img/conversionRate_channel_targetAudience.jpg" alt="conversionRate y channel por targetAudience" width="75%">
-
-* Las diferencias entre B2B y B2C se hacen más visibles entre los canales Organic y Paid, y menos entre Promotion y Referral.
-
-<img src="../img/conversionRate_channel_targetAudience.jpg" alt="conversionRate y type por targetAudience" width="75%">
 
 <br/>
 
@@ -185,10 +181,6 @@ Datos estadísticos de las mejores campañas
 * Predominan los canales promotion, organic y paid.
 
 <img src="../img/filtered_channel_frecuency.jpg" alt="Top10 frecuencia channel" width="75%">
-
-* Los tipos más comunes son email, podcast, y webinar.
-
-<img src="../img/filtered_type_frecuency.jpg" alt="Top10 frecuencia type" width="75%">
 
 <br/>
 
