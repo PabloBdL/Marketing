@@ -125,10 +125,6 @@ Se utilizarán herramientas de análisis estadístico para evaluar el rendimient
 
 <img src="../img/conversionRate_channel_targetAudience.jpg" alt="conversionRate y channel por targetAudience" width="75%">
 
-* Las diferencias entre B2B y B2C se hacen más visibles entre los canales Organic y Paid, y menos entre Promotion y Referral.
-
-<img src="../img/conversionRate_channel_targetAudience.jpg" alt="conversionRate y type por targetAudience" width="75%">
-
 <br/>
 
 ---
@@ -185,10 +181,6 @@ Datos estadísticos de las mejores campañas
 * Predominan los canales promotion, organic y paid.
 
 <img src="../img/filtered_channel_frecuency.jpg" alt="Top10 frecuencia channel" width="75%">
-
-* Los tipos más comunes son email, podcast, y webinar.
-
-<img src="../img/filtered_type_frecuency.jpg" alt="Top10 frecuencia type" width="75%">
 
 <br/>
 
